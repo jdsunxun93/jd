@@ -15,7 +15,7 @@
     <base href="">
     <%//=basePath%>
     
-    <title>My git git JSP 'GoodsList.jsp' starting page</title>
+    <title>My hello world JSP 'GoodsList.jsp' starting page</title>
     
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
